@@ -30,10 +30,10 @@ O produto consiste em um sistema web o qual será um repositório de TCCs para o
 
 
 # Documentos
-1. [Casos de uso](<docs/Casos%20de%20Uso/>)
-2. [Diagramas de domínio](<docs/Diagrama%20de%20Dominio/>)
-3. [Diagramas de sequência](<docs/Diagrama%20de%20Sequencia/>)
-4. [Visao de negocio](<docs/Visao%20do%20Negocio/>)
-5. [Diagrama de classe](<docs/Diagrama_de_Classe_Gerenciar_TCC_-_UC04.png>)
-6. [Matriz de responsabilidade](<docs/Matriz%20de%20responsabilidade%20-%20Página1.pdf>)
-7. [Projeto de interfaces](<https://www.figma.com/design/7EZFYG2C7weAdUxS3ZY5pt/Untitled?node-id=0-1&t=1TmIfY3H268vuRNV-1>)
+1. [Casos de Uso](<docs/Casos%20de%20Uso/>)
+2. [Diagramas de Domínio](<docs/Diagrama%20de%20Dominio/>)
+3. [Diagramas de Sequência de Sistema](<docs/Diagrama%20de%20Sequencia/>)
+4. [Visao de Negócio](<docs/Visao%20do%20Negocio/>)
+5. [Diagrama de Classe](<docs/Diagrama_de_Classe_Gerenciar_TCC_-_UC04.png>)
+6. [Matriz de Responsabilidade](<docs/Matriz%20de%20responsabilidade%20-%20Página1.pdf>)
+7. [Projeto de Interfaces](<https://www.figma.com/design/7EZFYG2C7weAdUxS3ZY5pt/Untitled?node-id=0-1&t=1TmIfY3H268vuRNV-1>)
