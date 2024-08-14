@@ -23,10 +23,10 @@ O produto consiste em um sistema web o qual será um repositório de TCCs para o
 
 |                                                                                              | Nome             | Github                         | Papel no projeto         |
 | -------------------------------------------------------------------------------------------- | ---------------- | ------------------------------ | ------------------------ |
-| <img src="https://avatars.githubusercontent.com/u/42620040" width="100px" heigth="100px" />  | Breno Vambáster  | www.github.com/brenovambaster  | Desenvolvedor Back-end;  |
-| <img src="https://avatars.githubusercontent.com/u/81447789"  width="100px" heigth="100px" /> | Natã Teixeira    | https://github.com/natansantoz | Desenvolvedor Front-end; |
-| <img src="https://avatars.githubusercontent.com/u/60756489"  width="100px" heigth="100px" /> | Gustavo Henrique | https://github.com/GhusWes     | Desenvolvedor Front-end  |
-| <img src="https://avatars.githubusercontent.com/u/60756521"  width="100px" heigth="100px" /> | Filipe Abner     | https://github.com/FilipeAbner | Desenvolvedor Back-end   |
+| <img src="https://avatars.githubusercontent.com/u/42620040" width="100px" heigth="100px" />  | Breno Vambáster  | www.github.com/brenovambaster  | Líder Técnico e Desenvolvedor Back-end  |
+| <img src="https://avatars.githubusercontent.com/u/81447789"  width="100px" heigth="100px" /> | Natã Teixeira    | https://github.com/natansantoz | Gerente de Projeto e Desenvolvedor Front-end |
+| <img src="https://avatars.githubusercontent.com/u/60756489"  width="100px" heigth="100px" /> | Gustavo Henrique | https://github.com/GhusWes     | Gerente de Desenvolvimento Front-end  |
+| <img src="https://avatars.githubusercontent.com/u/60756521"  width="100px" heigth="100px" /> | Filipe Abner     | https://github.com/FilipeAbner | Gerente de Desenvolvimento Back-end   |
 
 
 # Documentos
