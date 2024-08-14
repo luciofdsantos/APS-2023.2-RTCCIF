@@ -1,0 +1,6 @@
+[submodule "src/front-end-2"]
+	path = src/front-end-2
+	url = https://github.com/brenovambaster/front-end-2.git
+[submodule "src/RTCC"]
+	path = src/RTCC
+	url = https://github.com/brenovambaster/RTCC.git
