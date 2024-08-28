@@ -1,5 +1,8 @@
 <h1 align="center"> Repositório de Tccs do IFNMG-MOC (RTCC-IF)</h1>
 
+<!-- <p align="center">
+  <img src="https://raw.githubusercontent.com/luciofdsantos/APS-2023.2-RTCCIF/main/images/logo.png" alt="Sublime's custom image" width="350" height="350"/>
+</p> -->
 
 <p align="center">
     <img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License MIT">
@@ -11,7 +14,6 @@
     </a>
 </p>
 <br>
-
 
 # Sobre o projeto
 Repositório destinado ao desenvolvimento do trabalho da disciplina Análise de Projeto de Sistemas do Instituto Federal do Norte de Minas Gerais (IFNMG - Montes Claros) do curso de Ciência da Computação. Nele estará mantido o processo de documentação de requisitos, modelagem, análise e código desenvolvido pela turma. O tema escolhido foi Repositório de TCC para o IFNMG-Moc(RTCC-IF) , o qual foi submetidos a etapa de elicitação de requisitos, elaboração, análise do projeto e desenvolvimento do código, sendo as técnicas utilizadas em conformidade com a disciplina. 
