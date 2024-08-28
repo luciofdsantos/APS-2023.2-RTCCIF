@@ -9,7 +9,7 @@ O back-end é a parte do sistema responsável pela lógica de negócios e comuni
 
 Acesse o diretório do back-end:
 
-Navegue até a pasta src/back-end no diretório raiz do projeto.
+Navegue até a pasta src/RTCC no diretório raiz do projeto.
 
 ### Leia as especificações:
 
@@ -20,8 +20,8 @@ O front-end é a interface gráfica do sistema, onde o usuário interage diretam
 
 Acesse o diretório do front-end
 
-Navegue até a pasta src/front-end no diretório raiz do projeto.
+Navegue até a pasta src/front-end-2 no diretório raiz do projeto.
 
 ### Leia as especificações:
 
-Assim como no back-end, na pasta do front-end você encontrará as orientações específicas sobre como instalar as dependências e iniciar o servidor de desenvolvimento no arquivo `src/front-end/README.md` . Certifique-se de seguir todas as etapas descritas para evitar problemas de execução.
+Assim como no back-end, na pasta do front-end você encontrará as orientações específicas sobre como instalar as dependências e iniciar o servidor de desenvolvimento no arquivo `src/front-end-2/README.md` . Certifique-se de seguir todas as etapas descritas para evitar problemas de execução.
