@@ -39,4 +39,5 @@ O produto consiste em um sistema web o qual será um repositório de TCCs para o
 5. [Diagrama de Classe](<docs/Diagrama de Classe/>)
 6. [Matriz de Responsabilidade](<docs/Matriz de responsabilidades.pdf>)
 7. [Projeto de Interfaces](<https://www.figma.com/design/7EZFYG2C7weAdUxS3ZY5pt/Untitled?node-id=0-1&t=1TmIfY3H268vuRNV-1>)
-8. [Documento de arquitetura](<docs/Documento de Arquitetura de Software - RTCCIF.pdf>)
+8. [Projeto de Arquitetura](<docs/Documento de Arquitetura de Software - RTCCIF.pdf>)
+9. [Feedback sobre o Desenvolvimento](<docs/Feedback sobre o Desenvolvimento.md>)
