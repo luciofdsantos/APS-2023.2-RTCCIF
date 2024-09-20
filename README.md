@@ -18,10 +18,11 @@
 </p> 
 
 # Sobre o projeto
-Repositório destinado ao desenvolvimento do trabalho da disciplina Análise de Projeto de Sistemas do Instituto Federal do Norte de Minas Gerais (IFNMG - Montes Claros) do curso de Ciência da Computação. Nele estará mantido o processo de documentação de requisitos, modelagem, análise e código desenvolvido pela turma. O tema escolhido foi Repositório de TCC para o IFNMG-Moc(RTCC-IF) , o qual foi submetidos a etapa de elicitação de requisitos, elaboração, análise do projeto e desenvolvimento do código, sendo as técnicas utilizadas em conformidade com a disciplina. 
+Este repositório é destinado ao desenvolvimento do trabalho da disciplina Análise de Projeto de Sistemas do Instituto Federal do Norte de Minas Gerais (IFNMG - Montes Claros), no curso de Ciência da Computação. Nele será mantido o processo de documentação de requisitos, modelagem, análise e código desenvolvido pela turma. O tema escolhido foi o Repositório de TCC para o IFNMG-Moc (RTCC-IF), o qual foi submetido às etapas de elicitação de requisitos, elaboração, análise do projeto e desenvolvimento do código, utilizando técnicas em conformidade com a disciplina.
 
 # O que é? 
-O produto consiste em um sistema web o qual será um repositório de TCCs para o Instituto Federal do Norte de Minas Gerais - Campus Montes Claros, a fim de facilitar a visualização dos trabalhos desenvolvidos na instituição, uma vez que ela não possui nenhuma plataforma de divulgação virtual ou física destes trabalhos. Dessa forma, as monografias poderão ser disponibilizadas e poderão se tornar referência para futuros trabalhos acadêmicos e de pesquisa.
+O produto consiste em um sistema web que funcionará como repositório de TCCs para o Instituto Federal do Norte de Minas Gerais - Campus Montes Claros, com o objetivo de facilitar a visualização dos trabalhos desenvolvidos na instituição, já que ela não possui nenhuma plataforma de divulgação virtual ou física desses trabalhos. Dessa forma, as monografias poderão ser disponibilizadas e servir de referência para futuros trabalhos acadêmicos e de pesquisa.
+
 
 # Desenvolvedores
 
